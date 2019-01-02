@@ -1,0 +1,7 @@
+E:\LA MANU\Exercice Boucles\Exercice\boucles\exercice4\bin\Debug\exercice4.exe.config
+E:\LA MANU\Exercice Boucles\Exercice\boucles\exercice4\bin\Debug\exercice4.exe
+E:\LA MANU\Exercice Boucles\Exercice\boucles\exercice4\bin\Debug\exercice4.pdb
+E:\LA MANU\Exercice Boucles\Exercice\boucles\exercice4\obj\Debug\exercice4.csprojAssemblyReference.cache
+E:\LA MANU\Exercice Boucles\Exercice\boucles\exercice4\obj\Debug\exercice4.csproj.CoreCompileInputs.cache
+E:\LA MANU\Exercice Boucles\Exercice\boucles\exercice4\obj\Debug\exercice4.exe
+E:\LA MANU\Exercice Boucles\Exercice\boucles\exercice4\obj\Debug\exercice4.pdb
